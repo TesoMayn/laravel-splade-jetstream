@@ -1,5 +1,5 @@
 {
-    "name": "protonemedia/laravel-splade-jetstream",
+    "name": "tesomayn/laravel-splade-jetstream",
     "description": "Tailwind scaffolding for the Laravel frameworkwith Laravel Splade.",
     "keywords": [
         "laravel",
@@ -8,8 +8,8 @@
     ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/protonemedia/laravel-splade-jetstream/issues",
-        "source": "https://github.com/protonemedia/laravel-splade-jetstream"
+        "issues": "https://github.com/tesomayn/laravel-splade-jetstream/issues",
+        "source": "https://github.com/tesomayn/laravel-splade-jetstream"
     },
     "authors": [
         {
@@ -28,7 +28,7 @@
         "illuminate/support": "^9.37|^10.0",
         "jenssegers/agent": "^2.6",
         "laravel/fortify": "^1.15",
-        "protonemedia/laravel-splade": "^1.4.8"
+        "tesomayn/laravel-splade": "^1.4.8"
     },
     "require-dev": {
         "inertiajs/inertia-laravel": "^0.6.5",
