@@ -1,5 +1,6 @@
 {
     "name": "tesomayn/laravel-splade-jetstream",
+    "version": "1.0.0",
     "description": "Tailwind scaffolding for the Laravel frameworkwith Laravel Splade.",
     "keywords": [
         "laravel",
